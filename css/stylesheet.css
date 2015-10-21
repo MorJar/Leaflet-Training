@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+#container {
+  width: 960px;
+  margin: 15px auto;
+}
+
+#map {
+  height: 500px;
+  margin: 15px auto;
+}
